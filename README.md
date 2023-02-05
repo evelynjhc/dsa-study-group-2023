@@ -1,5 +1,4 @@
 # DSA Study Group 2023
----
 
 This repository contains our solutions to DSA coding problems.
 Updated every few days or weekly.
